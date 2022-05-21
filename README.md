@@ -1,4 +1,4 @@
-### Ryoiki tenkai ✋
+### 新造 を 捧げよ ✌️
 
 <!--
 **pyalihtml/pyalihtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
