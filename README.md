@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pyalihtml&show_icons=true&theme=gradient)
 
-<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="150px">
+<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px">
