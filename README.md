@@ -1,6 +1,6 @@
 ### 新造 を 捧げよ ✌️
 
-🔭 I’m currently working on Legend of Zeus
+🔭 I’m currently working on Legend of Zeus <br>
 🌱 I’m currently learning Python, Html and Css
 📫 Instagram : 1kpopsever
 
