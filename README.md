@@ -11,4 +11,15 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pyalihtml&show_icons=true&theme=gradient)  ![pyalihtml's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyalihtml&theme=white-green)
 
-<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px"> 
+<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px">  
+   _          _ _
+  | |__   ___| | | ___
+  | '_ \ / _ | | |/ _ \
+  | | | |  __| | | (_) |
+  |_| |_|\___|_|_|\___/
+  
+                      _     _
+  __      _____  ____| | __| |
+  \ \ /\ / / _ \| ___| |/ _  |
+   \ V  V | (_) | |  | | (_| |
+    \_/\_/ \___/|_|  |_|\____| 
