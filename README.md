@@ -1,4 +1,4 @@
-### 新造 を 捧げよ ✌️
+   新造 を 捧げよ ✌️
 
 🔭 I’m currently working on Legend of Zeus <br>
 🌱 I’m currently learning Python, Html and Css <br>
@@ -11,4 +11,4 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pyalihtml&show_icons=true&theme=gradient)  ![pyalihtml's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyalihtml&theme=white-green)
 
-<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px"> 
+<img border-radius="20px" src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px"> 
