@@ -1,7 +1,7 @@
    新造 を 捧げよ ✌️
    
-🔭 I’m currently working on **The Secrets : Blind Man's Story**
-Also I am currently I will release it as a pre-release soon. <br>
+🔭 I'm currently working on **The Secrets : Blind Man's Story**
+Also I will release it as a pre-release (coming soon).<br>
 🌱 I’m currently learning Python, Html and Css <br>
 
 🔗 &nbsp;**Connect with me**
