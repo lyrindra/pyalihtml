@@ -1,6 +1,6 @@
    新造 を 捧げよ ✌️
    
-🔭 I’m currently working on Legend of Zeus <br>
+🔭 I’m currently working on The Secrets : Blind Man's Story <br>
 🌱 I’m currently learning Python, Html and Css <br>
 
 🔗 &nbsp;**Connect with me**
