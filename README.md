@@ -11,6 +11,6 @@ Also I will release it as a pre-release (coming soon).<br>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=pyalihtml&show_icons=true&theme=gradient)  ![pyalihtml's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyalihtml&theme=white-green)
 
-<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px" border-radius: 10px>
+<img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px" border-radius="10px">
 
    
