@@ -13,16 +13,7 @@ Also I will release it as a pre-release (coming soon).<br>
 
    ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Patalin"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Patalin&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patalin&layout=compact"><p>
-
-<p><img src="https://metrics.lecoq.io/Patalin"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patalin"><p>
-
+<p><img src="https://activity-graph.herokuapp.com/graph?username=pyalihtml"><p>
    
 <img src="https://github.com/pyalihtml/pyalihtml/blob/main/gojo-anime.gif?raw=true" width="350px">
 
